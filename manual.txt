@@ -1,1 +1,9 @@
 ﻿This is a demonstration and introduction software of the comparison between microtone and 12 equal temperament, and be exhibited to The 91th May Festival of UTokyo on 19th and 20th May 2018. This game is required Unity to play.
+
+http://utvirtual.tech/portfolio/microtone-vr
+
+https://sites.google.com/site/microtonalmemo/developers-1#TOC-Hirotoshi-Uchida-
+
+https://gumroad.com/l/KBHPL
+
+https://sites.google.com/view/hirotoshi-uchida-gallery-vr
